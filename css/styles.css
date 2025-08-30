@@ -54,8 +54,8 @@ a {
 .header-item-link:focus,
 .header-contacts-link:hover,
 .header-contacts-link:focus {
-  background-color: #404bbf;
-  cursor: pointer;
+  color: #404bbf;
+  /* cursor: pointer; */
 }
 
 .hero-section {
