@@ -54,8 +54,7 @@ a {
 .header-item-link:focus,
 .header-contacts-link:hover,
 .header-contacts-link:focus {
-  color: #404bbf;
-  /* cursor: pointer; */
+  background-color: #404bbf;
 }
 
 .hero-section {
@@ -72,12 +71,13 @@ a {
 }
 
 .hero-button {
-  background-color: #4d5ae5;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: #ffffff;
+  background-color: #4d5ae5;
+  cursor: pointer;
 }
 
 .visually-hidden {
